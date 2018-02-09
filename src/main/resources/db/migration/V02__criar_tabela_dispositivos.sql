@@ -1,0 +1,3 @@
+CREATE TABLE dispositivo (
+	token VARCHAR(100) 
+) ENGINE=InnoDB DEFAULT CHARSET=utf8;
